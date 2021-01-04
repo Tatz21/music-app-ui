@@ -1,0 +1,12 @@
+{
+  "name": "unknown",
+  "displayName": "unknown",
+  "expo": {
+    "name": "unknown",
+    "slug": "unknown",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
